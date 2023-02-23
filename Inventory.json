@@ -1,54 +1,24 @@
 ﻿{
-  "TypesOfRice": [
+  "TypesOfStock": [
     {
-      "name": "Basmati",
-      "weight": 3,
-      "price": 60
+      "name": "Reliance",
+      "numberOfShare": 25,
+      "price": 900
     },
     {
-      "name": "Rice2",
-      "weight": 6,
-      "price": 80
+      "name": "Bajaj",
+      "numberOfShare": 6,
+      "price": 800
     },
     {
-      "name": "Rice3",
-      "weight": 5,
-      "price": 100
-    }
-  ],
-  "TypesOfPulses": [
-    {
-      "name": "Pulse1",
-      "weight": 3,
-      "price": 60
+      "name": "Honda",
+      "numberOfShare": 21,
+      "price": 1000
     },
     {
-      "name": "Pulse2",
-      "weight": 10,
-      "price": 80
-    },
-    {
-      "name": "Pulse3",
-      "weight": 2,
-      "price": 100
-    }
-  ],
-  "TypesOfWheat": [
-    {
-      "name": "Wheat1",
-      "weight": 3,
-      "price": 60
-    },
-    {
-      "name": "Wheat2",
-      "weight": 7,
-      "price": 80
-    },
-    {
-      "name": "Wheat3",
-      "weight": 4,
-      "price": 100
+      "name": "Vodafone",
+      "numberOfShare": 33,
+      "price": 340
     }
   ]
-
 }
